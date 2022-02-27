@@ -5,7 +5,7 @@
             "project_name": "Random Quote Generator",
             "description": "An app that displays famous random quotes each time the user clicks a button.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "https://alecstephens.github.io/random-quote-generatorv1/",
             "github_link": "https://github.com/alecstephens/random-quote-generatorv1",
             "thumbnails": "",
             "image_urls": ""
@@ -15,7 +15,7 @@
             "project_name": "Word Guessing Game",
             "description": "A browser version of \"Wheel Of Success\", where players will click letters from an onscreen keyboard to try to guess a random phrase.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "https://alecstephens.github.io/word-guessing-game/",
             "github_link": "https://github.com/alecstephens/word-guessing-game",
             "thumbnails": "",
             "image_urls": ""
@@ -25,7 +25,7 @@
             "project_name": "Data Pagination and Filtering with JavaScript",
             "description": "A site that uses a common web development technique known as \"pagination\" to enhance a web page's usability.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "https://alecstephens.github.io/data_pagination_and_filtering_v1/",
             "github_link": "https://github.com/alecstephens/data_pagination_and_filtering_v1",
             "thumbnails": "",
             "image_urls": ""
@@ -35,7 +35,7 @@
             "project_name": "Interactive Registration Form",
             "description": "Uses JavaScript to enhance an interactive registration from for a fictional Full Stack conference.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "https://alecstephens.github.io/Interactive_Form/",
             "github_link": "https://github.com/alecstephens/Interactive_Form",
             "thumbnails": "",
             "image_urls": ""
@@ -45,7 +45,7 @@
             "project_name": "Public API/Employee Directory",
             "description": "An app for a fictional company that uses an API to grab information for random employees and uses that information to build a prototype for an employee directory.",
             "technologies": ["JavaScript", "HTML", "CSS", "AJAX", "Fetch API"],
-            "live_link": "",
+            "live_link": "https://github.com/alecstephens/Public-API-Employee-Directory/settings/pages",
             "github_link": "https://github.com/alecstephens/Treehouse---Project-8",
             "thumbnails": "",
             "image_urls": ""
