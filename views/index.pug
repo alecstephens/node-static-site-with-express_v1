@@ -21,8 +21,9 @@ block content
           //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
           //- The project title for the h5 element's text
 
+      each project in projects
         .cell
-          a(href='#')
-            img.thumbnail(src='https://placehold.it/550x550', alt='')
-            h5 My Site
+          a(href=`/projects/${project.id}`)
+            img.thumbnail(src='https://placehold.it/550x550', alt='Thumbnail')
+            h5 = `${project.project_name}`
 
