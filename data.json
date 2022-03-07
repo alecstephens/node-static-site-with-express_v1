@@ -7,8 +7,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://alecstephens.github.io/random-quote-generatorv1/",
             "github_link": "https://github.com/alecstephens/random-quote-generatorv1",
-            "thumbnails": "",
-            "image_urls": ""
+            "thumbnails": "/static/images/random-quote-generator_1.jpg",
+            "image_urls": "/static/images/random-quote-generator_2.jpg"
         },
         {
             "id": 1,
@@ -17,8 +17,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://alecstephens.github.io/word-guessing-game/",
             "github_link": "https://github.com/alecstephens/word-guessing-game",
-            "thumbnails": "",
-            "image_urls": ""
+            "thumbnails": "/static/images/wheel-of-success_1.jpg",
+            "image_urls": "/static/images/wheel-of-success_2.jpg"
         },
         {
             "id": 2,
@@ -27,8 +27,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://alecstephens.github.io/data_pagination_and_filtering_v1/",
             "github_link": "https://github.com/alecstephens/data_pagination_and_filtering_v1",
-            "thumbnails": "",
-            "image_urls": ""
+            "thumbnails": "/static/images/data-pagination_1.jpg",
+            "image_urls": "/static/images/data-pagination_2.jpg"
         },
         {
             "id": 3,
@@ -37,18 +37,18 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://alecstephens.github.io/Interactive_Form/",
             "github_link": "https://github.com/alecstephens/Interactive_Form",
-            "thumbnails": "",
-            "image_urls": ""
+            "thumbnails": "/static/images/interactive-form_1.jpg",
+            "image_urls": "/static/images/interactive-form_2.jpg"
         },
         {
             "id": 4,
             "project_name": "Public API/Employee Directory",
             "description": "An app for a fictional company that uses an API to grab information for random employees and uses that information to build a prototype for an employee directory.",
             "technologies": ["JavaScript", "HTML", "CSS", "AJAX", "Fetch API"],
-            "live_link": "https://github.com/alecstephens/Public-API-Employee-Directory/settings/pages",
+            "live_link": "https://alecstephens.github.io/Public-API-Employee-Directory/",
             "github_link": "https://github.com/alecstephens/Treehouse---Project-8",
-            "thumbnails": "",
-            "image_urls": ""
+            "thumbnails": "/static/images/employee-directory_1.jpg",
+            "image_urls": "/static/images/employee-directory_2.jpg"
         }
     ]
 }
