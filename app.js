@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const data = require('./data.json');
-const {projects} = data;
+const { projects } = data;
 
 //middleware
 app.set('view engine', 'pug');
@@ -21,7 +21,7 @@ app.get('/projects/:id', (req, res, next) => {
     const project = projects[id];
 
     if(project) {
-        res.render('project', {project})
+        res.render('project', project);
     } else {
         next();
     }
